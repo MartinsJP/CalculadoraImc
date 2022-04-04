@@ -1,0 +1,4 @@
+br/com/martins/appimc/MainActivity.java
+ br.com.martins.appimc.MainActivity
+br/com/martins/appimc/BuildConfig.java
+ br.com.martins.appimc.BuildConfig

@@ -1,0 +1,4 @@
+#Thu Mar 24 21:06:46 BRT 2022
+base.0=D\:\\Downloads\\calculadoraImc\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
